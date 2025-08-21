@@ -47,3 +47,7 @@ and demographic segments (gender, senior citizen, partner, dependents).
 - Actions/filters to drill from segment → customer list
 - Optional SQL/Python data prep notebook
 
+---
+
+**Author**: Joanna Wasilenko 
+Part of my **Data Analyst Portfolio**
